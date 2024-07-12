@@ -223,8 +223,9 @@ print(f"Percentage of return tickets sold (IsSold = 1): {percentage_sold_return_
 ### Results/ Findings
 
 #### Customer Behaviour:
-- 88.8% travelled economy 
+- 88.8% travelled economy
  - (7.9% first, 2.9% business)
+ - Opt-in = 13.4% eco, 16.6% bus, 14.4% first
 - Average transaction value per ticket = $1063.21
  -     Business              $3546.58 (R - $3823.76, S - $2604.86)
  -     Economy               $974.30 (R - $1127.04, S - $652.17)
